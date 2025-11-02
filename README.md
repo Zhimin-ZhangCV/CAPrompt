@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CAPrompt
 Class-aware Cross-attention Helps Prompt Learning with Limited Samples
 =======
@@ -62,4 +61,3 @@ The first two arguments specify the GPU IDs, and the third argument sets the num
 ```bash
 bash few-shot.sh gpuid1,gpuid2 shots
 ```
->>>>>>> ce7ba0a (First commit)
