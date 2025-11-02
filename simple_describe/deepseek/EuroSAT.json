@@ -1,0 +1,12 @@
+{
+    "Annual Crop Land": "Crops replanted yearly",
+    "Forest": "Dense tree area (taller than 5m)",
+    "Herbaceous Vegetation Land": "Low non-woody plants", 
+    "Highway or Road": "Paved road for vehicles",
+    "Industrial Buildings": "Buildings for factories",
+    "Pasture Land": "Land for animal grazing",
+    "Permanent Crop Land": "Long-term growing crops",
+    "Residential Buildings": "Houses and apartments",
+    "River": "Flowing freshwater channel",
+    "Sea or Lake": "Large natural water body"
+}
