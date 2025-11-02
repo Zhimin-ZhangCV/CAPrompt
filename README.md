@@ -1,7 +1,3 @@
-
-Class-aware Cross-attention Helps Prompt Learning with Limited Samples
-=======
-
 # Class-aware Cross-attention Helps Prompt Learning with Limited Samples
 
 
